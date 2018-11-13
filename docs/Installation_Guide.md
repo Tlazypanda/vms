@@ -216,8 +216,6 @@ NOTE: In case, you get the following error django.db.utils.ProgrammingError: rel
     python manage.py migrate auth
     python manage.py migrate
 
-
-
 We do not want to create a superuser at this time, so when it asks you to create a superuser, say 'no':
 
     You just installed Djano's auth system, which means you don't have any superusers defined.
